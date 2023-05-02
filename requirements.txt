@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1
+openai==0.25.0
+pdfminer==20191125
+pdfminer.six==20221105
+requests==2.28.1
+st_pages==0.4.1
+streamlit==1.16.0
+gspread==5.7.2
+gpt-index==0.4.28
+langchain==0.0.109
